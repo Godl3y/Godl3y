@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Godl3y! At the moment, I just learned the basics to HTML, CSS, and JavaScript.
+- 👋 Hi, I’m @Godl3y (Lj)! At the moment, I just learned the basics to HTML, CSS, and JavaScript.
 - 👀 I’m interested in getting better at software development. It's actually very fun.
 - 🌱 I’m currently learning how to create basic projects that involve some HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on JavaScript! It's a little hard for me to get a grasp on it. 
